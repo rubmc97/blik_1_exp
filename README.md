@@ -1,5 +1,5 @@
 # Land use drives prokaryotic community composition of directly adjacent grasslands
-[![DOI](pending)]([https://doi.org/10.1007/s00374-024-01871-4])
+[![DOI](https://doi.org/10.1007/s00374-024-01871-4)]
 > Authors: Rubén Martínez-Cuesta et al. 2025 | Published in: [Biology and Fertility of Soils]
 ---
 ## 📂 Repository Contents
