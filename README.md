@@ -6,3 +6,4 @@
 
 ### File Descriptions:
 - `blik_first_experiment_16S_analyses_script.R`: Script in R of 16S rRNA amplicons processing from sequencing to phyloseq object + further analyses (alpha, beta div, LefSe, co-occurrence networks, core microbiome...)
+- `metadata_BLIK_I.csv`: metadata of the 16S rRNA amplicons dataset needed to create the phyloseq object.
