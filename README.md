@@ -1,13 +1,8 @@
 # Land use drives prokaryotic community composition of directly adjacent grasslands
-by R. Martinez-Cuesta12, A. Holmer3, F. Buegger4, M. Dannenmann5, M. Schloter12, S. Schulz2
+[![DOI](pending)]([https://doi.org/10.1007/s00374-024-01871-4])
+> Authors: Rubén Martínez-Cuesta et al. 2025 | Published in: [Biology and Fertility of Soils]
+---
+## 📂 Repository Contents
 
-1Chair of Environmental Microbiology, TUM School of Life Sciences, Technical University of Munich, Emil-Ramann-Straße 2, 85354 Freising, Germany
-2Research Unit Comparative Microbiome Analysis, Helmholtz Zentrum Munich, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany
-3Chair of Geomorphology and Soil Science, Technical University of Munich, Hans-Carl-von-Carlowitz-Platz 2, 85354 Freising, Germany
-4Research Unit Environmental Simulation, Helmholtz Zentrum München, German Research Centre for Environmental Health, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany
-5Institute of Meteorology and Climate Research, Atmospheric Environmental Research, Karlsruhe Institute of Technology, Kreuzeckbahnstraße 19, 82467 Garmisch-Partenkirchen, Germany
-
-Repository containing the code behind the processing and analysess of the dataset that was used for the manuscript.
-
-Contains:
-blik_first_experiment_16S_analyses_script.R: script used to process and analyse the 16S rRNA gene amplicon sequencing dataset of the experiment
+### File Descriptions:
+- `blik_first_experiment_16S_analyses_script.R`: Script in R of 16S rRNA amplicons processing from sequencing to phyloseq object + further analyses (alpha, beta div, LefSe, co-occurrence networks, core microbiome...)
